@@ -1,0 +1,22 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Socket Chat App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srtalaie/chatApp.git"
+  },
+  "author": "Sasha Talaie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srtalaie/chatApp/issues"
+  },
+  "homepage": "https://github.com/srtalaie/chatApp#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
